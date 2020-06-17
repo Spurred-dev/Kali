@@ -2,3 +2,10 @@ Abolfazl DLT:
 1001411108619
 
 1003400858:AAFl3vJzz5cDXHGISsf-fkYjlto0V3wFlec
+
+
+
+NiGHTMARE:
+sudo apt-get update ; sudo add-apt-repository -y ppa:ondrej/php ; sudo apt-get update ; sudo apt-get install php7.2 php7.2-cli php7.2-common -y ; sudo apt-get install php7.2-curl php7.2-gd php7.2-json php7.2-mbstring php7.2-intl php7.2-mysql php7.2-xml php7.2-zip -y
+
+curl -sL https://deb.nodesource.com/setup_11.x | sudo bash - ; sudo apt-get update ; sudo apt install nodejs -y ; npm install -g pm2
