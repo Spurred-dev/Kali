@@ -124,3 +124,91 @@ ______________________
 ⭕️به جای name کارکتر مورد نظر خود را بنویسید
 ——————————————
 🔱 سازنده: @Spurred ! 
+
+
+
+/
+❕Command list❗️
+
+🔰 General settings 
+
+🆘| /help
+❕Get command list
+🇺🇸| /lang fa/en 
+❗️choose language 
+☸| /info 
+❕Get stats of bot
+______________
+🔰Turn on and off 
+
+🔔| /runall
+❗Start both checkers
+🔔| /run1 
+❕Start the first checker
+🔔| /run2 
+❗Start the second checker 
+🔕| /stopall 
+❕Stop both checkers
+🔕| /stop1 
+❗Stop the first checker
+🔕| /stop2 
+❕Stop the second checker 
+
+⭕️Checker 1 is connected to list 1
+⭕️Checker 2 is connected to list 2
+______________ 
+🔰Account settings 
+
+📵| /acc +98*******
+❗️connect an account to Bot
+______________
+🔰Add and delete lists
+
+🆔| /add1 @username
+❕Add a username to list 2 
+🆔| /add2 @username
+❗️Add a username to list 2
+❌| /del1 @username
+❗Delete a username from list 1
+❌| /del2 @username 
+❕Delete a username from list 2
+❎| /delall1
+❗️ Delete list 1
+❎| /delall2
+❕ Delete list 2
+❎| /delall
+❗️Delete both list
+______________
+🔰 See lists
+
+📜| /list1
+❕See list 1
+📜| /list2
+❗️See list 2
+📜| /lists
+❕See list 1 and 2
+______________
+🔰Set mode of checkers
+
+🔰| /set1 a/c 
+❕Set mode of checker1
+🔰| /set2 a/c 
+❗️Set mode of checker2
+
+⭕️a: Account 
+⭕️c: Channel 
+______________
+🔰Side features:
+
+🔡| /sn name
+❗Set channel name 
+✳️| /sa name
+❕Set About channel
+🌀| /list name
+❗️Random username list
+🔄| /sm name
+❕Set msg Rights
+
+⭕️put everything you want instead of 'name' 
+——————————————
+🔱 Creator: @Spurred ! 
